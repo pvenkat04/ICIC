@@ -1,0 +1,20 @@
+From 8e5aef737465b3b6fef7183a24d032ea57dbc15d Mon Sep 17 00:00:00 2001
+From: pvreddy04 <pvr04.scm@gmail.com>
+Date: Sat, 1 Oct 2016 18:42:15 +0530
+Subject: [PATCH 2/3] jbkkj.
+
+---
+ andhra.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 andhra.txt
+
+diff --git a/andhra.txt b/andhra.txt
+new file mode 100644
+index 0000000..dab33af
+--- /dev/null
++++ b/andhra.txt
+@@ -0,0 +1 @@
++andhara anba
+-- 
+2.10.0.windows.1
+
